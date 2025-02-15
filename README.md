@@ -46,13 +46,3 @@ Homepage → Tap on "Calendar" → Redirects to Calendar View
 Task Manager → Tap on "Set Reminder" → Opens Notification Settings
 Homepage → Click on "Start" → Opens Timer
 Dashboard → Click on "View Reports" → Opens Statistics & Reports
-Prototype Tools
-We will create wireframes with Figma. Wireframes' screenshots will be added in this document to show the layout and navigation.
-
-Where to Store the Proposal
-This document is a Wiki page called Design Proposal in our GitLab repository.
-A link to this page will be placed in our README.md file for ease of access. 
-
-Submission Details
-Only one team member is required to submit the document.
-The final submission will be evaluated as a team deliverable.
